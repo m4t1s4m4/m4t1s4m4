@@ -1,0 +1,180 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1b14e0;
+    color: #fff;
+    padding: 1rem;
+    text-align: left;
+    font-size: 12px;
+    justify-content: center;
+    
+}
+
+
+.intro-section {
+    padding: 20px;
+    background-color: #f4f4f4;
+
+
+}
+
+.intro-image img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro-description {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+    
+}
+
+.intro-description h2 {
+margin-top: auto;
+    justify-content: center;
+}
+
+.intro-section {
+    padding: 20px;
+    background-color: #f4f4f4;
+    
+}
+
+.intro-content {
+    display: flex;
+
+    align-items: center;
+    text-align: center;
+}
+
+.intro-columns {
+    display: flex;
+    width: 100%;
+    max-width: 800px;
+    align-items: center;
+}
+
+
+
+.intro-description {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.intro-description h2 {
+    margin-top: 0;
+}
+
+@media(min-width: 768px) {
+    .intro-content {
+        flex-direction: row;
+        justify-content: space-between;
+        text-align: left;
+        justify-content: center;
+
+    }
+
+    .intro-columns {
+        flex-direction: row;
+    }
+
+    .intro-image, .intro-description {
+        width: 48%;
+    }
+}
+
+.social-links a {
+    margin: 0 0.5rem;
+    text-align: center;
+    
+}
+
+.descripcion, .seccion, .seccion-u, .seccion-otros {
+    padding: 2rem;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    background-color: #fff;
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+    
+    
+
+}
+#boton-whatsapp {
+    position: fixed;
+    right: 20px; /* Ajusta esta distancia según tu diseño */
+    bottom: 20px; /* Ajusta esta distancia según tu diseño */
+    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+    cursor: pointer; /* Añade un cursor indicativo */
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+.section-title {
+    margin-bottom: 1rem;
+    color: #333;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+
+
+}
+
+.section-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+
+
+.section-content img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+
+
+}
+.section-content-2 img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    flex-direction: row; /* Distribuye los elementos horizontalmente */
+
+
+}
+
+@media (max-width: 768px) {
+    .section-content div {
+        width: calc(50% - 2rem);
+    }
+}
+
+@media (max-width: 480px) {
+    .section-content div {
+        width: 100%;
+    }
+}
