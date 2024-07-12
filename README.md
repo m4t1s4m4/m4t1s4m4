@@ -1,5 +1,5 @@
 
-¡Hola! Soy @m4t1s4m4 🚀
+¡Hola! Soy @MatiasDonaire.dev 🚀
 
 👀 Intereses: Estoy interesado en la construcción sostenible y sustentable, así como en el desarrollo de software, especialmente en páginas web, aplicaciones web y aplicaciones móviles.
 
@@ -8,8 +8,6 @@
 💞️ Colaboraciones: Me encantaría colaborar en proyectos relacionados con la construcción sostenible y el desarrollo de software.
 
 📫 Contacto: Puedes contactarme a través de mis redes sociales
-
-😄 Pronombres: Él.
 
 ⚡ Dato Curioso: Estoy trabajando en mi proyecto de título en la Universidad Autónoma de Chile, enfocándome en estrategias implementadas en diferentes países para la construcción sostenible.
 
