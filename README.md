@@ -1,7 +1,7 @@
 
 ¡Hola! Soy @MatiasDonaire.dev 🚀
 
-👀 Intereses: Estoy interesado en la construcción sostenible y sustentable, así como en el desarrollo de software, especialmente en páginas web, aplicaciones web y aplicaciones móviles.
+👀 Intereses: Estoy interesado en la construcción sostenible y sustentable, así como en el desarrollo de software, especialmente en páginas web.
 
 🌱 Aprendizaje: Actualmente, estoy aprendiendo sobre estrategias de sostenibilidad en la industria de la construcción y técnicas avanzadas de desarrollo web.
 
